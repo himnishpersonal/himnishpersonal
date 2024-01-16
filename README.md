@@ -19,7 +19,7 @@ I am well-versed in various programming languages, tools, and technologies, incl
 
 ### Professional Experience
 
-**Software Engineer Intern | Hughes Network Systems | Germantown, MD | 05/2023 - Present**
+**Software Engineer Intern | Hughes Network Systems | Germantown, MD | 05/2023 - 08/2023**
 - Leveraged Elasticsearch, Python, and Apache Airflow for accurate licensing reporting and efficient analysis.
 - Developed Kibana dashboards for customer insights and contributed to the "Orchestration Activation Insights Report."
 - Actively involved in Agile System Development, facilitating data-driven decision-making.
