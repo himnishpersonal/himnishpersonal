@@ -4,8 +4,7 @@
 
 ### About Me
 
-Hello! I'm Himnish Sambaraju, a Computer Science undergraduate student at the University of Maryland, College Park. With a strong passion for technology and software development, I am constantly exploring new avenues in the field. Expected to graduate in May 2025, I am committed to leveraging my skills and knowledge to contribute meaningfully to innovative projects.
-
+Hello! I'm Himnish Sambaraju, a Computer Science undergraduate student at the University of Maryland, College Park, with a strong passion for technology and software development. Expected to graduate in May 2025, I have cultivated a diverse skill set that includes data science, machine learning, and full stack web development using Python, Node.js, and other modern technologies. I am dedicated to leveraging my skills and knowledge to contribute meaningfully to innovative projects and explore new avenues in the tech industry. Whether it's building dynamic web applications, developing predictive models, or creating insightful data visualizations, I am committed to delivering impactful solutions.
 ### Education
 
 - **University of Maryland, College Park**
