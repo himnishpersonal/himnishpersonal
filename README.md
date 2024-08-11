@@ -22,10 +22,16 @@ I am proficient in a variety of programming languages, tools, and technologies, 
 
 ### Professional Experience
 
+**Software Engineer Intern | Fannie Mae| Washington, DC | June 2024 - Aug 2024**
+- Spearheaded the transition of 133 test case scenarios from a legacy Selenium-based regression testing platform to the Karate API testing framework, resulting in a 92.47% reduction in regression testing times. This migration significantly improved the maintainability, readability, and execution efficiency of test scripts.
+- Developed and refined SQL queries for Oracle databases to ensure precise validation of API responses against database records. This optimization enhanced data integrity, accuracy, and reliability in automated testing, contributing to higher overall test quality.
+- Leveraged JSON for dynamic payload management and CSV for efficient data-driven testing. Utilized JavaScript for advanced data manipulation and query building, streamlining the automation process and reducing manual intervention, leading to faster and more reliable test execution.
+- Played a key role in critical regression testing during feature releases and presented complex technical concepts effectively to the IntelliPrice team during tech scrum meetings, demonstrating strong communication skills and contributing to team success
+
 **Software Engineer Intern | Hughes Network Systems | Germantown, MD | May 2023 - Aug 2023**
-- **Elasticsearch & Python:** Leveraged Elasticsearch querying, Python, and Apache Airflow for accurate licensing reporting and efficient analysis of Fortinet product data.
-- **Kibana Dashboards:** Developed interactive Kibana dashboards to analyze and present customer information, offering valuable insights into activation status and trends.
-- **Agile Development:** Contributed to the Agile System Development team, creating the "Orchestration Activation Insights Report," which provided a comprehensive evaluation of the orchestration platform's performance, aiding in data-driven decision-making.
+- Leveraged Elasticsearch querying, Python, and Apache Airflow for accurate licensing reporting and efficient analysis of Fortinet product data.
+- Developed interactive Kibana dashboards to analyze and present customer information, offering valuable insights into activation status and trends.
+- Contributed to the Agile System Development team, creating the "Orchestration Activation Insights Report," which provided a comprehensive evaluation of the orchestration platform's performance, aiding in data-driven decision-making.
 
 ### Notable Projects
 
