@@ -1,7 +1,7 @@
 # Himnish Sambaraju
 
-Full Stack Engineer & Data Scientist at Fannie Mae, building production
-data infrastructure and ML systems for financial risk workflows.
+Full Stack Engineer & Data Engineer at Fannie Mae, building production
+data infrastructure and fullstack applications for financial risk workflows.
 MS in Artificial Intelligence @ UT Austin | BS in Computer Science @ UMD.
 
 himnish03@gmail.com · LinkedIn · Portfolio
