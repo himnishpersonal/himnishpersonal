@@ -34,11 +34,11 @@ Automated network activation pipelines and executive analytics dashboards.
 
 | Project | Stack | What it does |
 |---|---|---|
-| [ACL Monitoring Agent](https://github.com/himnishpersonal/acl-monitoring-agent) | LangGraph · FastAPI · RAG · GPT · FAISS · Streamlit | Post-surgery recovery assistant with deterministic triage engine. ACM workshop paper. |
-| [Portfolio Sentiment Intelligence](https://github.com/himnishpersonal/portfolio-sentiment-intelligence) | LangGraph · FastAPI · FinBERT · GPT | Multi-agent pipeline generating analyst-style buy/hold/sell reports in ~15 seconds |
-| [Prediction Market Arbitrage Bot](https://github.com/himnishpersonal/prediction-market-arb) | Python · FastAPI · SQLite · Asyncio | Cross-venue arbitrage detection across Polymarket and Kalshi with Kelly-sized risk controls |
-| [Fraud Detection Engine](https://github.com/himnishpersonal/fraud-detection-engine) | Scikit-learn · SHAP · SMOTE · Streamlit | 0.874 PR-AUC on 284K transactions with SHAP explainability and threshold optimization |
-| [HistoryGPT](https://github.com/himnishpersonal/historygpt) | PyTorch · tiktoken | Decoder-only GPT trained from scratch on ancient history texts. No pretrained weights. |
+| [ACL Monitoring Agent](https://github.com/himnishpersonal/high-risk-project) | LangGraph · FastAPI · RAG · GPT · FAISS · Streamlit | Post-surgery recovery assistant with deterministic triage engine. ACM workshop paper. |
+| [Portfolio Sentiment Intelligence](https://github.com/himnishpersonal/portfolio-sentiment-agent) | LangGraph · FastAPI · FinBERT · GPT | Multi-agent pipeline generating analyst-style buy/hold/sell reports in ~15 seconds |
+| [Prediction Market Arbitrage Bot](https://github.com/himnishpersonal/arb-trading-bot) | Python · FastAPI · SQLite · Asyncio | Cross-venue arbitrage detection across Polymarket and Kalshi with Kelly-sized risk controls |
+| [LectureMate AI](https://github.com/himnishpersonal/lecturemate-ai) | Next.js · FastAPI · Whisper · RAG · FAISS · DeepSeek V2 | Full-stack AI study platform converting lectures into searchable notes with RAG-backed Q&A |
+| [HistoryGPT](https://github.com/himnishpersonal/HistoryGPT) | PyTorch · tiktoken | Decoder-only GPT trained from scratch on ancient history texts. No pretrained weights. |
 
 ---
 
