@@ -1,96 +1,58 @@
 # Himnish Sambaraju
 
-Full Stack Engineer & Data Engineer at Fannie Mae, building production
-data infrastructure and fullstack applications for financial risk workflows.
-MS in Artificial Intelligence @ UT Austin | BS in Computer Science @ UMD.
+Software Engineer at Fannie Mae building production AI pipelines, full-stack platforms, and data infrastructure for financial risk workflows.
+M.S. in Artificial Intelligence @ UT Austin | B.S. in Computer Science @ UMD
 
-himnish03@gmail.com · LinkedIn · Portfolio
+---
+
+## What I Build
+
+- **Agentic AI systems** — LangGraph orchestration, RAG pipelines, hybrid LLM + rules engines
+- **Full-stack products** — Angular, Spring Boot, React, FastAPI, REST APIs end to end
+- **Cloud data infrastructure** — AWS (Glue, ECS, Batch, Step Functions, Bedrock), GCP, Terraform
+- **Applied NLP and ML** — FinBERT, PyTorch, Scikit-learn, PySpark, SHAP explainability
 
 ---
 
 ## Experience
 
-**Fannie Mae — Full Stack / Data Software Engineer** · Reston, VA · July 2025–Present
-Building enterprise data systems and ML-powered applications for the Risk team.
-Python · PySpark · AWS Glue · Lambda · Step Functions · Angular · Spring Boot · Terraform
+**Fannie Mae** — Software Engineer · Reston, VA · July 2025 – Present  
+Shipping AI-powered risk platforms and data pipelines for the Counterparty Risk team.  
+`Python` `Java` `Angular` `Spring Boot` `AWS Bedrock` `PySpark` `Terraform`
 
-**Hughes Network Systems — Data Engineering Intern** · Germantown, MD · May–Aug 2023
-Built automated data pipelines and analytics dashboards for network activation workflows.
-Python · Apache Airflow · Elasticsearch · Kibana · GCP
+**Fannie Mae** — Software Engineering Intern · Washington, DC · June – Aug 2024  
+API test automation and Oracle SQL data validation pipelines.  
+`JavaScript` `Karate` `Oracle SQL`
+
+**Hughes Network Systems** — Data Engineering Intern · Germantown, MD · May – Aug 2023  
+Automated network activation pipelines and executive analytics dashboards.  
+`Python` `Apache Airflow` `Elasticsearch` `Kibana` `GCP`
 
 ---
 
 ## Projects
 
-### Fraud Detection Engine
-End-to-end fraud detection pipeline on 284K real credit card transactions.
-Random Forest + Isolation Forest ensemble with SMOTE and SHAP explainability.
-**0.874 PR-AUC · 86.7% recall · 76.6% precision · $9,998 net fraud value recovered**
-`Python` `scikit-learn` `LightGBM` `SHAP` `Streamlit` `pandas` `imbalanced-learn`
-[Code](#)
-
-### ACL Monitoring Agent
-Agentic clinical monitoring system for ACL surgery recovery.
-LangGraph workflow processing patient SMS messages through structured symptom
-extraction and a 1,721-chunk phase-filtered RAG pipeline across 10 clinical documents.
-Safety-first architecture — deterministic rules engine handles all triage decisions,
-LLM handles language only.
-`Python` `LangGraph` `FastAPI` `GPT-4o-mini` `ChromaDB` `Streamlit` `PostgreSQL`
-[Code](#)
-
-### BookMaker AI — NBA Line Optimization Engine
-Sportsbook pricing engine estimating fair win probabilities and point spreads,
-converting model outputs to vig-adjusted moneylines, simulating bettor behavior,
-and optimizing posted lines under exposure constraints.
-`Python` `LightGBM` `scikit-learn` `SHAP` `Streamlit` `scipy` · In progress
-
-### Portfolio Sentiment Agent
-6-agent LangGraph system analyzing financial news across 5 APIs.
-FinBERT sentiment classification (91% confidence) + Llama 3.2 summarization
-with recency decay and source credibility weighting.
-Sub-3 second latency · Automated pre-market email reports.
-`Python` `LangGraph` `FinBERT` `Llama 3.2` `Docker` `Supabase` `Streamlit`
-[Code](#) [Demo](#)
-
-### SmartInvest Bot
-XGBoost model on 476 S&P 500 stocks with 8-feature pipeline including momentum,
-volume trends, and FinBERT sentiment scores. 78% accuracy · 70% F1.
-Discord bot with portfolio simulation and risk management commands.
-`Python` `XGBoost` `FinBERT` `Discord` `pandas`
-[Code](#)
-
-### LectureMate AI
-AI note generator converting lecture audio and documents into searchable notes.
-RAG system with FAISS + DeepSeek V2 for contextual Q&A across course materials.
-`Next.js 15` `TypeScript` `FastAPI` `Whisper` `FAISS` `DeepSeek V2` `SQLAlchemy`
-[Code](#)
-
-### Heart Attack Risk Predictor
-ML classification model on patient health data. Random Forest + KNN.
-95% F1 · Key predictors: chest pain type, cholesterol, exercise-induced angina.
-`Python` `scikit-learn` `pandas` `Random Forest` `KNN`
-[Code](#)
-
-### MyStockTracker
-Full-stack portfolio tracker with real-time stock quotes and AI-powered insights.
-`Node.js` `Express.js` `MongoDB` `EJS` `Yahoo Finance API`
-[Code](#)
-
-### Terpiez
-Cross-platform iOS/Android geolocation game with shake-to-catch mechanics
-and real-time proximity notifications.
-`Flutter` `Dart` `Redis` `Geolocation`
+| Project | Stack | What it does |
+|---|---|---|
+| [ACL Monitoring Agent](https://github.com/himnishpersonal/acl-monitoring-agent) | LangGraph · FastAPI · RAG · GPT · FAISS · Streamlit | Post-surgery recovery assistant with deterministic triage engine. ACM workshop paper. |
+| [Portfolio Sentiment Intelligence](https://github.com/himnishpersonal/portfolio-sentiment-intelligence) | LangGraph · FastAPI · FinBERT · GPT | Multi-agent pipeline generating analyst-style buy/hold/sell reports in ~15 seconds |
+| [Prediction Market Arbitrage Bot](https://github.com/himnishpersonal/prediction-market-arb) | Python · FastAPI · SQLite · Asyncio | Cross-venue arbitrage detection across Polymarket and Kalshi with Kelly-sized risk controls |
+| [Fraud Detection Engine](https://github.com/himnishpersonal/fraud-detection-engine) | Scikit-learn · SHAP · SMOTE · Streamlit | 0.874 PR-AUC on 284K transactions with SHAP explainability and threshold optimization |
+| [HistoryGPT](https://github.com/himnishpersonal/historygpt) | PyTorch · tiktoken | Decoder-only GPT trained from scratch on ancient history texts. No pretrained weights. |
 
 ---
 
-## Skills
+## Stack
 
-**Languages:** Python · Java · JavaScript · TypeScript · SQL
-**ML / Data:** scikit-learn · LightGBM · SHAP · pandas · NumPy · Streamlit
-**AI / Agents:** LangGraph · LangChain · RAG · ChromaDB · FAISS · FinBERT
-**Cloud / Infra:** AWS (Glue · Lambda · S3 · ECS · Step Functions) · GCP · Docker · Terraform
-**Databases:** PostgreSQL · Oracle · Redshift · MongoDB · Elasticsearch · Supabase
+```text
+Languages     Python · Java · JavaScript · TypeScript · SQL
+Frontend      React · Angular · Next.js
+Backend       Spring Boot · FastAPI · Flask · Node.js · REST APIs
+AI / ML       LangGraph · LangChain · PyTorch · FinBERT · FAISS · Scikit-learn · PySpark
+Cloud         AWS (ECS · Glue · Lambda · Step Functions · Batch · Bedrock) · GCP · Terraform · Docker
+Databases     PostgreSQL · Aurora · Oracle · Elasticsearch · SQLite · Supabase
+```
 
 ---
 
-himnish03@gmail.com · Open to DS · ML · AI Engineering roles
+himnish03@gmail.com · [LinkedIn](https://linkedin.com/in/himnish-sambaraju-82b33a228) · [Portfolio](https://himmy-portfolio.vercel.app)
